@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D1E5C24AAA02FAA734C83C9EE006552745EA8377",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D1E5C24AAA02FAA734C83C9EE006552745EA8377" : 0,
+    "D057879B365F6B15ACF9303C9198C846BBBBD619" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8FA44CB7-0634-4BED-BBFE-8A8E97C7E178",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D1E5C24AAA02FAA734C83C9EE006552745EA8377" : "Game24\/",
+    "D057879B365F6B15ACF9303C9198C846BBBBD619" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Game24",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Game24.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Developmentnu\/iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D057879B365F6B15ACF9303C9198C846BBBBD619"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/pinggeek\/Game24.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D1E5C24AAA02FAA734C83C9EE006552745EA8377"
+    }
+  ]
+}
